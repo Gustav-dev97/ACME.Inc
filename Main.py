@@ -1,3 +1,5 @@
+# pip install pandas
+# pip install numpy
 # pip install plotly
 
 import numpy as np
