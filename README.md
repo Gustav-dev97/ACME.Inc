@@ -1,13 +1,13 @@
 # ACME.Inc
 Exercício projeto (retirado do link -> https://wiki.python.org.br/ListaDeExerciciosProjetos) resolvido de forma diferente. Inserindo os dados em um dataframe 'Pandas' e 'Plotly' para exibir os dados em gráfico.
 
-Com código comentado.
+Código com resolução comentada.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # A situação-problema:
 
-1. Controle de cotas de disco. A ACME Inc., uma organização com mais de 1500 funcionários, está tendo problemas de espaço em disco no seu servidor de arquivos. Para tentar resolver este problema, o Administrador de Rede precisa saber qual o espaço em disco ocupado pelas contas dos usuários, e identificar os usuários com maior espaço ocupado. Através de um aplicativo baixado da Internet, ele conseguiu gerar o seguinte arquivo, chamado usuarios.txt:
+1. Controle de cotas de disco. A ACME Inc., uma organização com mais de 1500 funcionários, está tendo problemas de espaço em disco no seu servidor de arquivos. Para tentar resolver este problema, o Administrador de Rede precisa saber qual o espaço em disco ocupado pelas contas dos usuários, e identificar os usuários com maior espaço ocupado. Através de um aplicativo baixado da Internet, ele conseguiu gerar o seguinte arquivo, chamado 'usuarios.txt':
 
 
         alexandre       456123789
@@ -17,7 +17,7 @@ Com código comentado.
         cesar           987458
         rosemary        789456125
     
-Neste arquivo, o primeiro campo corresponde ao login do usuário e o segundo ao espaço em disco ocupado pelo seu diretório home. A partir deste arquivo,     você deve criar um programa que gere um relatório, chamado relatório.txt, no seguinte formato:
+Neste arquivo, o primeiro campo corresponde ao login do usuário e o segundo ao espaço em disco ocupado pelo seu diretório home. A partir deste arquivo,     você deve criar um programa que gere um relatório, chamado 'relatório.txt', no seguinte formato:
 
 
     ACME Inc.           Uso do espaço em disco pelos usuários
