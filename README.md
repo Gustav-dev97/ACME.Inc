@@ -42,3 +42,5 @@ Recursos adicionais: opcionalmente, desenvolva as seguintes funcionalidades:
  - Mostrar apenas os n primeiros em uso, definido pelo usuário;
  - Gerar a saída numa página html;
  - Criar o programa que lê as pastas e gera o arquivo inicial;
+![newplot](https://user-images.githubusercontent.com/76456917/173181853-e0bf1e4c-514f-4936-a1f1-fd0993341d21.png)
+![relat](https://user-images.githubusercontent.com/76456917/173181946-796c4951-2e23-4679-b97f-6498bcd3f44f.png)
